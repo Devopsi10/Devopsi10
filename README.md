@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar</h1>
+<h1 align="center">Hi 👋, I'm Omer</h1>
 <h3 align="center">A passionate tech guy who has a knowledge about frontend and linux</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devopsi10" alt="devopsi10" /></a> </p>
